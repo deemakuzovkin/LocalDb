@@ -1,2 +1,2 @@
 # LocalDb
-Install localDb to PC
+Шаблон проекта для работы с базой данных localDb сервера MSSQL
