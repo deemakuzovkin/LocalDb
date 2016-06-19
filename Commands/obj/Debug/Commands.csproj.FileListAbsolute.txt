@@ -1,0 +1,6 @@
+D:\All Prog For Years\GitHub\LocalDb\Commands\bin\Debug\Commands.dll
+D:\All Prog For Years\GitHub\LocalDb\Commands\bin\Debug\Commands.pdb
+D:\All Prog For Years\GitHub\LocalDb\Commands\obj\Debug\Commands.Properties.Resources.resources
+D:\All Prog For Years\GitHub\LocalDb\Commands\obj\Debug\Commands.csproj.GenerateResource.Cache
+D:\All Prog For Years\GitHub\LocalDb\Commands\obj\Debug\Commands.dll
+D:\All Prog For Years\GitHub\LocalDb\Commands\obj\Debug\Commands.pdb
